@@ -1,0 +1,12 @@
+
+ Marker ID,	Time (in s)
+# first column = moment eyes closed or open
+# second column = time marker in seconds
+eyes closed,	4.2552
+eyes open,	14.9426
+eyes closed,	23.2801
+eyes open,	36.0951
+eyes closed,	45.4738
+eyes open,	59.3751
+eyes closed,	72.0337
+eyes open,	85.0831
